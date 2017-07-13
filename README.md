@@ -19,4 +19,4 @@ Features
  5. Server Info
  6. Tools (Reverse shell, socket server, jumping, symlink, deface, mysql) (coming soon)
 
-Thanks to : IndoXploit
+**Thanks to : IndoXploit**
