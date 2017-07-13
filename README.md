@@ -7,7 +7,7 @@ What's new
 
  1. Support PHP 7.0
  2. Aesthetic UI
- 3. Fix Bugs on Server Info
+ 3. Bug Fixes (Server Info)
 
 Features
 --------
