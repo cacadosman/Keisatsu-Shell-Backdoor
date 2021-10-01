@@ -598,5 +598,5 @@ print '</table>';
         indexing();
       }
     }
-
+// keisatsu shell
 ?>
